@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hswapnil09
 - 👀 I’m interested in backend systems
-- 🌱 I’m currently learning Python, Redis, Google Cloud Platform, REST APIs, PostgreSQL.
+- 🌱 I’m currently using Python, Redis, Google Cloud Platform, REST APIs, PostgreSQL and Docker.
 - 💞️ I’m looking to collaborate on Redis based systems
 - 📫 How to reach me drop me a mail at hansrajswapnil@outlook.com
 
